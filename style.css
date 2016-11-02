@@ -1,0 +1,88 @@
+body{
+	margin: 0 auto;
+	width: 75%;
+	background-image: url("Caitlyn.jpg");
+	background-size:50% 40%;
+}
+
+
+header{
+	color:teal;
+	padding: 70px;
+	text-align: center;
+	font-family: fantasy;
+	background-image: url("JINX.png");
+	
+}
+
+nav {
+	width: 75%;
+	float: left;	
+}
+
+nav ul li{
+	display: inline-block;
+	background-image: url("lol.png");
+	background-size: 100% 95%;
+	background-repeat: no-repeat;
+	padding: 2%;
+	
+}
+nav ul li a {
+	text-decoration: none;
+	color: gainsboro;
+}
+
+
+section {
+	width: 70%;
+	float: left;
+	
+}
+
+section h1 {
+	color: red;
+	
+}
+section h3 {
+	color: teal;
+}
+
+section p{
+	font-family: cursive;
+	font-size: 16px;
+	line-height: 24px;
+	text-align: justify;
+	color: gainsboro;
+}
+
+table {
+	color: white;
+}
+
+aside .par_color{
+	color:green;
+}
+
+aside{
+	width: 22%;
+	padding: 3%;
+	background-color: lemonchiffon;
+	float: right;
+	margin-top: 7%;
+	
+}
+
+aside h3 {
+	color: darkcyan;
+}
+
+footer {
+	clear: both;      /*para limpiar elementos flotantes*/
+	color: #EFB71F;
+	width: 94%;
+	padding: 3%;
+	text-align: center;
+	
+}
+
